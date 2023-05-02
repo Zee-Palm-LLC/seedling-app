@@ -1,16 +1,10 @@
-# seedling_app
+# Zee Palm UI Code
 
-A new Flutter project.
+Seedling App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes Seedling App UI with welcome and home screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/128903428/235715351-9a8e598a-d52a-4fc9-87e2-513a5e46f3f7.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/235715257-1a1500d9-f3ad-49e7-9db4-d4ba755adc99.png" height="400" />
